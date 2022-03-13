@@ -1,0 +1,2 @@
+# adverpoll
+yes|no site
